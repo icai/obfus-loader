@@ -2,7 +2,7 @@
   "name": "obfus-webpack-plugin",
   "version": "1.0.0",
   "description": "obfuscator webpack plugin for obfuscate variable strings",
-  "main": "dist/cjs.js",
+  "main": "dist/index.js",
   "engines": {
     "node": ">= 8.9.0"
   },
